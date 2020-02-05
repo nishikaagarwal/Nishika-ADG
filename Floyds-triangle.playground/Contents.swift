@@ -1,6 +1,7 @@
 import UIKit
 
-var rows = 7
+func floyd(rows: Int)
+{
 var k = 1
 print("Floyd's triangle is:")
 print()
@@ -11,4 +12,5 @@ for i in 1...rows {
     }
     print()
 }
-
+}
+floyd(rows:5)
