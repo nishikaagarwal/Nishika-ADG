@@ -1,6 +1,6 @@
 //
-//  ADG_task4UITests.swift
-//  ADG-task4UITests
+//  ADG_task_4UITests.swift
+//  ADG-task-4UITests
 //
 //  Created by Nishika Agarwal on 08/02/20.
 //  Copyright © 2020 Nishika Agarwal. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class ADG_task4UITests: XCTestCase {
+class ADG_task_4UITests: XCTestCase {
 
     override func setUp() {
         // Put setup code here. This method is called before the invocation of each test method in the class.
